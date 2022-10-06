@@ -1,1 +1,1 @@
-script that adds execute permission to the owner and the group owner
+script that changes the owner of the file hello to the user betty
